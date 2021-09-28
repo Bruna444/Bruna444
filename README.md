@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Bruna Gomes
 
 - 📱 Atualmente estou cursando faculdade de Tecnologia em Desevolvimento Mobile
-- Me interesso pela linguagem Dart
+- Me interesso pela linguagem Dart e C#
 - Contate-me no email: bsouzag@hotmail.com
 
 <div>
